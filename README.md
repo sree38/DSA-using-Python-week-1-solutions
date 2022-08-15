@@ -1,4 +1,4 @@
-# DSA-using-Python-week-1 quiz solutions July 2022
+# Programming DSA-using-Python-week-1 quiz solutions July 2022
 
 # What does h(27993) return for the following function definition?
 

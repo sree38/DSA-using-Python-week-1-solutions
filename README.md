@@ -1,7 +1,7 @@
 # DSA-using-Python-week-1 quiz solutions July 2022
 # What does h(27993) return for the following function definition?
 def h(x):
-    (d,n) = (1,0)
+(d,n) = (1,0)
     while d <= x:
         (d,n) = (d*3,n+1)
     return(n)
@@ -34,7 +34,8 @@ def foo(m):
       return(0)
     else:
       return(m+foo(m-1))
-Answer :  The function terminates for non­negative n with foo(n) = n(n+1)/2
+
+Answer : The function terminates for non­negative n with foo(n) = n(n+1)/2
 
 
 
